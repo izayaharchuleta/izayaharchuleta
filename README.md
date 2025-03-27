@@ -1,4 +1,4 @@
-<h1>Hi, I'm Izayah! <br/><a href="https://linkedin.com/in/izayaharchuleta">Business Graduate</a>, <a href="https://github.com/izayaharchuleta">Self-Taught IT Professional</a> 
+<h1>Hi, I'm Izayah! <br/><a href="https://linkedin.com/in/izayaharchuleta">Business Graduate</a>, <a href="https://github.com/izayaharchuleta">IT Professional</a> 
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
